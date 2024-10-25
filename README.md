@@ -6,7 +6,7 @@ Simplate is a simple template for your README.md files. I made it for my project
 such files. Simplate uses only Markdown syntax with headers, simple numerated/bullet lists, table structures, code 
 blocks, thick-lists and links. Enough to jump-start your project!
 
-[Live demo]([Blob]https://github.com/artemoons/simplate/blob/master/README.md) - [Report Bug]([Report Bug](https://github.com/artemoons/simplate/issues/new?assignees=artemoons&labels=bug&projects=&template=bug-report.md&title=%5BBUG%5D)) - [Request Feature]([Request Feature](https://github.com/artemoons/simplate/issues/new?assignees=artemoons&labels=enhancement&projects=&template=feature_request.md&title=%5BFEATURE%5D))
+[Live demo](https://github.com/artemoons/simplate/blob/master/README.md) - [Report Bug](https://github.com/artemoons/simplate/issues/new?assignees=artemoons&labels=bug&projects=&template=bug-report.md&title=%5BBUG%5D) - [Request Feature](https://github.com/artemoons/simplate/issues/new?assignees=artemoons&labels=enhancement&projects=&template=feature_request.md&title=%5BFEATURE%5D)
 
 ## About
 
@@ -106,7 +106,7 @@ A quick look on important milestones of your app. Format is pretty clean and sim
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE file for details
 
 ## Authors / Contributors
 
