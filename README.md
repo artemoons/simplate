@@ -67,7 +67,7 @@ At this step you can use plain text description with `run commands` inside or li
 Sometimes it's more suitable to use
 1. numerated
 2. lists
-3. with `step-by-step` commands
+3. with `step-by-step commands`
 
 So it's up to you to decide which one is better. The main aim of this paragraph is to give user all information
 that is required to run program. Use different text styles **to accent on important things** when _needed_.
@@ -106,7 +106,7 @@ A quick look on important milestones of your app. Format is pretty clean and sim
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Authors / Contributors
 
@@ -120,5 +120,5 @@ Inspiration for this README.md was taken from
 * [othneildrew](https://github.com/othneildrew/Best-README-Template)
 
 
-[project-logo]: images/logo.svg
+[project-logo]: readme_sources/logo.svg
 [project-url]: https://github.com/artemoons/simplate
